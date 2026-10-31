@@ -1,92 +1,53 @@
-<h1 align="center">Hi, I'm Mohd Abuzar Ibrahim 👋</h1>
+# 👨‍💻 Mohd Abuzar Ibrahim
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Backend+Engineer+%7C+Full-Stack+Developer;NestJS+%7C+Next.js+%7C+PostgreSQL;Multi-tenant+SaaS+%26+AI+Automation;Building+products+that+ship" alt="Typing SVG" />
-</p>
+<img src="assets/banner.svg" alt="Mohd Abuzar Ibrahim - Backend Engineer" width="100%" />
 
-<p align="center">
-  <a href="https://abuzar-portfolio-woad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/abuzaribrahim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:abuzaribrahim755@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+`Backend Engineer (NestJS / TypeScript / AI Automation)`
 
----
+Hi there! I'm Abuzar, a backend-focused full-stack engineer with a B.Tech in Computer Science (AI & ML). I enjoy designing scalable APIs, secure authentication flows, real-time systems and AI-powered automation, and I like owning things from architecture all the way to deployment. Strong in TypeScript, NestJS, PostgreSQL and system design.
 
-### 🧑‍💻 About
+### Connect with me:
 
-- Backend Engineer at **Cubosquare Technology** (since Mar 2025), building APIs, real-time systems and AI automation
-- B.Tech in Computer Science (AI & ML), 2026 batch
-- I take projects end to end: client requirements, architecture, integrations and deployment
-- Strong in **NestJS / TypeScript, multi-tenant SaaS, RBAC, payment gateways, LLM and voice-AI workflows**
-- Open to backend, full-stack and AI automation roles
-
-### 🛠️ Tech Stack
-
-**Languages & Backend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-**Databases & Real-time**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socketdotio&logoColor=white)
-
-**AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-### 🚀 Featured Work
-
-| Project | What it does | Stack |
-|---|---|---|
-| **Rank Pilot AI** | Multi-tenant SaaS for managing Google Business Profiles: shared-database tenant isolation, RBAC, a 16-rule profile audit engine, AI content via the OpenAI Batch API, per-location token metering and GST invoicing | NestJS, Next.js, PostgreSQL, OpenAI, Google APIs |
-| [**eAdvocate Diary**](https://www.eadvocatediary.com/) | Legal case-management platform (~30 backend modules): OTP/JWT auth, advocate team hierarchies, case and hearing management, push notifications, subscriptions | NestJS, PostgreSQL, MongoDB, Firebase, Docker |
-| **Suvidha EMI** | Mobile device management and EMI platform with 5 user roles, IMEI-based device tracking, EMI/payment workflows and automatic restriction on overdue EMIs | NestJS, PostgreSQL, Docker, Razorpay, Cashfree |
-| **AI Voice Calling Agent** | Real-time voice-to-voice AI over WebSockets with telephony, speech-to-text, tool-calling and n8n workflows | Bun, TypeScript, Twilio, Deepgram, Gemini |
-| [**Mehram Match**](https://www.mehrammatch.com/) | Matchmaking backend with Admin/Consultant roles, ~140 tested API endpoints and real-time chat | NestJS, PostgreSQL, Redis, WebSockets |
-
-> Most of my production work lives in private repositories. Happy to walk through any of it.
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbuzarIbrahim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuzarIbrahim&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbuzarIbrahim&theme=tokyonight&hide_border=true" alt="Streak stats" />
-</p>
+<a href="https://linkedin.com/in/abuzaribrahim"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://abuzar-portfolio-woad.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:abuzaribrahim755@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ---
 
-<p align="center">
-  📫 <a href="mailto:abuzaribrahim755@gmail.com">abuzaribrahim755@gmail.com</a>
-</p>
+### 🧰 Languages and Tools
+
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bun](https://img.shields.io/badge/BUN-000000?style=for-the-badge&logo=bun&logoColor=white)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Grafana](https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Twilio](https://img.shields.io/badge/TWILIO-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🧠 Core Knowledge
+
+`System Design` `REST API Design` `Database Design` `Multi-Tenant Architecture` `Authentication & RBAC (JWT, OTP, OAuth 2.0)` `Real-Time Systems (WebSockets, SSE)` `LLM & Voice-AI Integration` `Workflow Automation` `Payment Gateway Integration` `CI/CD & Deployment`
